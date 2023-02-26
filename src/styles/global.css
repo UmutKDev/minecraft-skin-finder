@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    @apply bg-[#171717];
+    @apply w-full h-screen;
+    @apply flex flex-col items-center justify-center;
+    @apply space-y-8
+}
