@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-    @apply bg-[#171717];
-    @apply w-full h-screen;
-    @apply flex flex-col items-center justify-center;
-    @apply space-y-8
+  @apply bg-[#171717];
+  @apply w-full h-screen;
+  @apply flex flex-col items-center justify-center;
+  @apply space-y-20;
 }
